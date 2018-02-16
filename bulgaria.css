@@ -1,0 +1,41 @@
+body {
+     background-image: url("pics/bulgaria.jpg");
+	 background-size:100% 100%;
+     background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+	color:white;
+	
+}
+a{
+	display: flex;
+	width: 238px;
+	line-height: 150px;
+	display:block;
+	text-align: center;
+	background-image: url("pics/button.jpg");
+	font-size: 30px;
+    color: white;
+	text-decoration: none;
+  
+}
+
+th
+	{
+	margin:auto;
+	border: 1px solid black;
+	text-align:center;
+	background-color:white;
+	 
+	
+	}
+td
+	{
+		border: 1px solid black;
+		text-align:center;
+		background-color:white;
+	
+		
+	}
