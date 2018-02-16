@@ -1,0 +1,33 @@
+body {
+     background-image: url("pics/outcomes.jpg");
+	 background-size:100% 100%;
+     background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+	color:white;
+	
+}
+
+
+th
+	{
+	margin:auto;
+	border: 1px solid black;
+	text-align:center;
+	background-color:white;
+	 
+	
+	}
+td
+	{
+		border: 1px solid black;
+		text-align:center;
+		background-color:white;
+	
+		
+	}
+
+	
+
